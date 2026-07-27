@@ -23,4 +23,6 @@
 * **DevOps & Tools:** Docker, Nginx, Cloudflare Tunnel, Git, Cursor AI, Bruno
 
 ### 📊 GitHub Stats
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=doanvuduy170921&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
