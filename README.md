@@ -22,10 +22,4 @@
 * **Architecture & Patterns:** Clean Architecture, RESTful APIs, Concurrency (Goroutines, Channels)
 * **DevOps & Tools:** Docker, Nginx, Cloudflare Tunnel, Git, Cursor AI, Bruno
 
-<h3 align="center">📊 GitHub Stats</h3>
-<br/>
-<p align="center">
-  <a href="https://github.com/doanvuduy170921">
-    <img src="https://github-readme-stats.vercel.app/api?username=doanvuduy170921&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Đoàn Vũ Duy's GitHub Stats"/>
-  </a>
-</p>
+
